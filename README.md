@@ -5,7 +5,7 @@ Welcome to the Loan Default Risk Analysis project! This repository showcases an 
 ## Project Structure
 # The Power BI report is organized into three main pages:
 - Loan Default Overview: Summary of loan volumes, average amounts, default rates by employment type, loan purpose, and age group.
-Applicant Demographics & Financial Profile: This section examines borrower characteristics, including education, credit score, age, and marital status, and their impact on loan amounts and volumes.
+- Applicant Demographics & Financial Profile: This section examines borrower characteristics, including education, credit score, age, and marital status, and their impact on loan amounts and volumes.
 - Financial Risk Metrics: Year-over-year (YOY) analysis of loan amounts and defaults, plus breakdowns by credit score, marital status, income bracket, and employment type.
 
 # Key Findings
